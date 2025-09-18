@@ -9,6 +9,7 @@ goatnetwork/goat-relayer
 goatnetwork/goat-contracts
 goatnetwork/bitvm
 goatnetwork/bitvm2-node
+goatnetwork/bitvm2-gc
 projectzkm/zkm
 projectzkm/zkm-project-template
 projectzkm/zkm-prover
